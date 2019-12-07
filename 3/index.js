@@ -114,3 +114,6 @@ collidingWireCords = collidingWireCords.map((cords) => {
 });
 
 console.warn('smallestDistance', smallestDistance);
+// 1983
+
+
